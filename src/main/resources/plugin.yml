@@ -1,0 +1,5 @@
+name: MRPG
+version: '${project.version}'
+main: mrpg.rexgood.MRPG
+api-version: '1.20'
+depend: [WorldGuard,WorldEdit]
